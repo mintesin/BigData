@@ -1,0 +1,43 @@
+{
+  "total_packets": 107819344,
+  "total_frame_size": 50453333617,
+  "total_packet_size": 44585329854,
+  "average_frame_size": 467.9432441826023,
+  "average_packet_size": 413.51883808530687,
+  "minmax_frame_size": {
+    "min": 30,
+    "max": 65535
+  },
+  "minmax_packet_size": {
+    "min": 0,
+    "max": 65212
+  },
+  "number_of_unique_ip": {
+    "dst_ip": 31991,
+    "src_ip": 78484
+  },
+  "top_talkers": {
+    "top_talkers_by_dst": [
+      "172.31.0.2",
+      "",
+      "172.31.65.77",
+      "169.254.169.254",
+      "5.101.40.43"
+    ],
+    "top_talkers_by_src": [
+      "172.31.0.2",
+      "",
+      "23.62.7.154",
+      "23.67.251.91",
+      "169.254.169.254"
+    ]
+  },
+  "checksum_errors": {
+    "true": "",
+    "false": 107819344
+  },
+  "malformed_errors": {
+    "false": 107819344
+  },
+  "sniffing_timespan": 3.4907903459999297
+}

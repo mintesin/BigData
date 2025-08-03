@@ -1,5 +1,3 @@
 fastapi
 pypsark
 uvicorn
-matplotlib
-plotly
